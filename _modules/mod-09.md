@@ -1,5 +1,5 @@
 ---
-title: Paper discussion: ML for structure data
+title: "Paper discussion: ML for structure data"
 ---
 
 Mar 27

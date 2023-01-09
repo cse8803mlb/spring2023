@@ -1,5 +1,5 @@
 ---
-title: Paper discussion: ML for network data
+title: "Paper discussion: ML for network data"
 ---
 
 Apr 05

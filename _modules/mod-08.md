@@ -1,5 +1,5 @@
 ---
-title: Paper discussion: ML for sequence data
+title: "Paper discussion: ML for sequence data"
 ---
 
 Mar 08

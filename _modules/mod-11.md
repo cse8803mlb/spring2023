@@ -1,5 +1,5 @@
 ---
-title: Paper discussion: ML for high-D data
+title: "Paper discussion: ML for high-D data"
 ---
 
 Apr 17
