@@ -7,4 +7,4 @@ Feb 27
 
 Mar 01
 : Graph neural network
-: **HW2** due
+: **HW2**{: .label .label-red } due

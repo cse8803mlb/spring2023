@@ -4,7 +4,7 @@ title: ML foundations
 
 Jan 25
 : Classification and regression
-: **HW1** out
+: **HW1**{: .label .label-red } out
 
 Jan 30
 : Optimization & Evaluation
@@ -18,7 +18,7 @@ Feb 06
 
 Feb 08:
 : RNN & Transformers
-: **HW1** due
+: **HW1**{: .label .label-red } due
 
 Feb 13
 : Generative models 

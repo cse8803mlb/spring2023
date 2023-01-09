@@ -3,4 +3,4 @@ title: Project report
 ---
 
 Apr 26
-: **Project** report due
+: **Project**{: .label .label-purple } report due
