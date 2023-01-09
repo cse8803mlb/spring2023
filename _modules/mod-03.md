@@ -16,7 +16,7 @@ Feb 01
 Feb 06
 : CNNs
 
-Feb 08:
+Feb 08
 : RNN & Transformers
 : **HW1**{: .label .label-red } due
 

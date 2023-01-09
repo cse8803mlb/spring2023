@@ -1,5 +1,5 @@
 ---
-title:  Learning from sequence data
+title: Learning from sequence data
 ---
 
 Feb 22
