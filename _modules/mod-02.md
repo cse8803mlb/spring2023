@@ -3,13 +3,13 @@ title: Algorithms in computational biology
 ---
 
 Jan 11
-: Sequence alignment I
+: Molecular biology
 
 Jan 16
 : No class (MLK day)
 
 Jan 18
-: Sequence alignment II
+: Sequence alignment I
 
 Jan 23
-: Pattern matching
+: Sequence alignment II
